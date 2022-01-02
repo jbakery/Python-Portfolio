@@ -113,6 +113,6 @@ def update_side_graph(hov_data, clk_data, slct_data, country_chosen):
 
 
 if __name__ == '__main__':
-        app.run_server(host='localhost',port=8005)
+        app.run_server(host='localhost',port=8009)
 
         app.py
